@@ -1,0 +1,131 @@
+https://ctext.org/analects , The Analects
+https://ctext.org/mengzi , Mengzi
+https://ctext.org/liji , Liji
+https://ctext.org/xunzi , Xunzi
+https://ctext.org/xiao-jing , Xiao Jing
+https://ctext.org/shuo-yuan , Shuo Yuan
+https://ctext.org/chun-qiu-fan-lu , Chun Qiu Fan Lu
+https://ctext.org/han-shi-wai-zhuan , Han Shi Wai Zhuan
+https://ctext.org/da-dai-li-ji , Da Dai Li Ji
+https://ctext.org/bai-hu-tong , Bai Hu Tong
+https://ctext.org/xin-shu , Xin Shu
+https://ctext.org/xin-xu , Xin Xu
+https://ctext.org/yangzi-fayan , Yangzi Fayan
+https://ctext.org/zhong-lun , Zhong Lun
+https://ctext.org/kongzi-jiayu , Kongzi Jiayu
+https://ctext.org/qian-fu-lun , Qian Fu Lun
+https://ctext.org/lunheng , Lunheng
+https://ctext.org/taixuanjing , Tai Xuan Jing
+https://ctext.org/fengsutongyi , Fengsu Tongyi
+https://ctext.org/kongcongzi , Kongcongzi
+https://ctext.org/shenjian , Shen Jian
+https://ctext.org/zhong-jing , Zhong Jing
+https://ctext.org/su-shu , Su Shu
+https://ctext.org/xinyu , Xin Yu
+https://ctext.org/duduan , Du Duan
+https://ctext.org/caizhong-langji , Cai Zhong Lang Ji
+https://ctext.org/mozi , Mozi
+https://ctext.org/zhuangzi , Zhuangzi
+https://ctext.org/liezi , Liezi
+https://ctext.org/he-guan-zi , He Guan Zi
+https://ctext.org/wenzi , Wenzi
+https://ctext.org/wenshi-zhenjing , Wen Shi Zhen Jing
+https://ctext.org/lie-xian-zhuan , Lie Xian Zhuan
+https://ctext.org/yuzi , Yuzi
+https://ctext.org/heshanggong , Heshanggong Laozi
+https://ctext.org/hanfeizi , Hanfeizi
+https://ctext.org/shang-jun-shu , Shang Jun Shu
+https://ctext.org/shen-bu-hai , Shen Bu Hai
+https://ctext.org/shenzi , Shenzi
+https://ctext.org/guanzi , Guanzi
+https://ctext.org/gongsunlongzi , Gongsunlongzi
+https://ctext.org/art-of-war , The Art of War
+https://ctext.org/wu-zi , Wu Zi
+https://ctext.org/liu-tao , Liu Tao
+https://ctext.org/si-ma-fa , Si Ma Fa
+https://ctext.org/wei-liao-zi , Wei Liao Zi
+https://ctext.org/three-strategies , Three Strategies
+https://ctext.org/nine-chapters , The Nine Chapters
+https://ctext.org/sunzi-suan-jing , Sunzi Suan Jing
+https://ctext.org/zhou-bi-suan-jing , Zhou Bi Suan Jing
+https://ctext.org/huainanzi , Huainanzi
+https://ctext.org/lv-shi-chun-qiu , Lü Shi Chun Qiu
+https://ctext.org/gui-gu-zi , Gui Gu Zi
+https://ctext.org/yin-wen-zi , Yin Wen Zi
+https://ctext.org/deng-xi-zi , Deng Xi Zi
+https://ctext.org/shiji , Shiji
+https://ctext.org/chun-qiu-zuo-zhuan , Chun Qiu Zuo Zhuan
+https://ctext.org/lost-book-of-zhou , Lost Book of Zhou
+https://ctext.org/guo-yu , Guo Yu
+https://ctext.org/yanzi-chun-qiu , Yanzi Chun Qiu
+https://ctext.org/wu-yue-chun-qiu , Wu Yue Chun Qiu
+https://ctext.org/yue-jue-shu , Yue Jue Shu
+https://ctext.org/zhan-guo-ce , Zhan Guo Ce
+https://ctext.org/yan-tie-lun , Yan Tie Lun
+https://ctext.org/lie-nv-zhuan , Lie Nü Zhuan
+https://ctext.org/guliang-zhuan , Guliang Zhuan
+https://ctext.org/gongyang-zhuan , Gongyang Zhuan
+https://ctext.org/han-shu , Han Shu
+https://ctext.org/qian-han-ji , Qian Han Ji
+https://ctext.org/dong-guan-han-ji , Dong Guan Han Ji
+https://ctext.org/hou-han-shu , Hou Han Shu
+https://ctext.org/zhushu-jinian , Zhushu Jinian
+https://ctext.org/mutianzi-zhuan , Mutianzi Zhuan
+https://ctext.org/gu-san-fen , Gu San Fen
+https://ctext.org/yandanzi , Yandanzi
+https://ctext.org/xijing-zaji , Xijing Zaji
+https://ctext.org/book-of-poetry , Book of Poetry
+https://ctext.org/shang-shu , Shang Shu
+https://ctext.org/book-of-changes , Book of Changes
+https://ctext.org/rites-of-zhou , The Rites of Zhou
+https://ctext.org/chu-ci , Chu Ci
+https://ctext.org/yili , Yili
+https://ctext.org/shan-hai-jing , Shan Hai Jing
+https://ctext.org/jiaoshi-yilin , Jiaoshi Yilin
+https://ctext.org/jingshi-yizhuan , Jingshi Yizhuan
+https://ctext.org/shishuo , Shi Shuo
+https://ctext.org/shuo-wen-jie-zi , Shuo Wen Jie Zi
+https://ctext.org/er-ya , Er Ya
+https://ctext.org/shi-ming , Shi Ming
+https://ctext.org/fang-yan , Fang Yan
+https://ctext.org/huangdi-neijing , Huangdi Neijing
+https://ctext.org/nan-jing , Nan Jing
+https://ctext.org/shang-han-lun , Shang Han Lun
+https://ctext.org/jinkui-yaolue , Jinkui Yaolue
+https://ctext.org/guodian , Guodian
+https://ctext.org/mawangdui , Mawangdui
+https://ctext.org/shi-shuo-xin-yu , 世說新語
+https://ctext.org/yan-shi-jia-xun , 顏氏家訓
+https://ctext.org/wenxin-diaolong , 文心雕龍
+https://ctext.org/baopuzi , 抱朴子
+https://ctext.org/renwuzhi , 人物志
+https://ctext.org/jinlouzi , 金樓子
+https://ctext.org/shui-jing-zhu , 水經注
+https://ctext.org/shen-xian-zhuan , 神仙傳
+https://ctext.org/sanguozhi , 三國志
+https://ctext.org/gaoshizhuan , 高士傳
+https://ctext.org/dongmingji , 洞冥記
+https://ctext.org/qunshu-zhiyao , 群書治要
+https://ctext.org/yiwen-leiju , 藝文類聚
+https://ctext.org/tongdian , 通典
+https://ctext.org/yilin , 意林
+https://ctext.org/si-shu-zhang-ju-ji-zhu , 四書章句集注
+https://ctext.org/lunyu-zhushu , 論語注疏
+https://ctext.org/xiyouji , 西遊記
+https://ctext.org/sanguo-yanyi , Romance of the Three Kingdoms
+https://ctext.org/jinpingmei , 金瓶梅
+https://ctext.org/fengshen-yanyi , 封神演義
+https://ctext.org/guangyun , 廣韻
+https://ctext.org/xiaojing-zhushu , 孝經注疏
+https://ctext.org/taiping-yulan , 太平御覽
+https://ctext.org/taiping-guangji , 太平廣記
+https://ctext.org/zhuzi-yulei , 朱子語類
+https://ctext.org/yingwengong , 宋景文公筆記
+https://ctext.org/qijing , 棋經
+https://ctext.org/yulizi , 郁離子
+https://ctext.org/mozi-jiangu , Mozi Jiangu
+https://ctext.org/hongloumeng , Hong Lou Meng
+https://ctext.org/quantangshi , Quan Tang Shi
+https://ctext.org/kangxi-zidian , Kangxi Zidian
+https://ctext.org/rulin-waishi , The Scholars
+https://ctext.org/mo-jing-jiao-shi , 墨經校釋
